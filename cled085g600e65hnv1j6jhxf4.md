@@ -50,4 +50,4 @@ Arrow functions also have some unique features that set them apart from traditio
 
 In conclusion, arrow functions in JavaScript are a powerful and convenient feature that can make code more concise and easier to read. They are particularly useful for functions that take no parameters or return a single value. However, it is important to keep in mind that arrow functions are not a replacement for traditional functions in all cases, and developers should use their discretion when deciding which type of function to use in a given situation.
 
-Follow me @the\_coding\_soup
+Follow me @[the\_coding\_soup](http://thecodingsoup.com)
