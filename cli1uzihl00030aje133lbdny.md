@@ -3,6 +3,7 @@ title: "Engage and Connect: A Comprehensive Guide to Building a Dynamic Customer
 datePublished: Wed May 24 2023 15:27:19 GMT+0000 (Coordinated Universal Time)
 cuid: cli1uzihl00030aje133lbdny
 slug: engage-and-connect-a-comprehensive-guide-to-building-a-dynamic-customer-messaging-app-with-twilio-and-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vVSleEYPSGY/upload/b2ed5b0525813623b4900a57ff4cfd7b.jpeg
 tags: express, ngrok, javascript, twilio, thecodingsoup
 
 ---
